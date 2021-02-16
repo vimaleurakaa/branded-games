@@ -2,7 +2,7 @@
 
 Branded games & gamification services keep the brands Daily Active User engaged for much longer throughout a marketing campaigns.
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/vimaleurakaa/product-games.git)
+[![Build Status](https://raw.githubusercontent.com/vimaleurakaa/branded-games/master/screenshots/game.svg)](https://github.com/vimaleurakaa/product-games.git)
 
 Ive built these games for marketing purpose of various brands, its the new era of marketing products and get more engagement from audiance.
 
