@@ -29,12 +29,29 @@ Ive built these games for marketing purpose of various brands, its the new era o
 
 Just clone the repo, and run from a live-server / local-host
 
-Verify the deployment by navigating to your server address in your preferred browser.
+# Game links and Screenshots
 
-```sh
-https://vimaleurakaa.github.io/branded-games/Abarth-Rush/
-https://vimaleurakaa.github.io/branded-games/Blue-Blaze/
-https://vimaleurakaa.github.io/branded-games/Odor-Buster/
-https://vimaleurakaa.github.io/branded-games/Purple-Haze/
-https://vimaleurakaa.github.io/branded-games/Wing-Walking/
-```
+---
+
+- [Click to Play](https://vimaleurakaa.github.io/branded-games/Purple-Haze/) Purple Haze
+  [![purple_haze](https://raw.githubusercontent.com/vimaleurakaa/branded-games/master/screenshots/purple_haze_game_play.png)](https://vimaleurakaa.github.io/branded-games/Purple-Haze/)
+
+---
+
+- [Click to Play](https://vimaleurakaa.github.io/branded-games/Blue-Blaze/) Purple Haze
+  [![purple_haze](https://raw.githubusercontent.com/vimaleurakaa/branded-games/master/screenshots/blue_blaze_game_play.png)](https://vimaleurakaa.github.io/branded-games/Blue-Blaze/)
+
+---
+
+- [Click to Play](https://vimaleurakaa.github.io/branded-games/Abarth-Rush/) Purple Haze
+  [![purple_haze](https://raw.githubusercontent.com/vimaleurakaa/branded-games/master/screenshots/abarth_game_play.png)](https://vimaleurakaa.github.io/branded-games/Abarth-Rush/)
+
+---
+
+- [Click to Play](https://vimaleurakaa.github.io/branded-games/Odor-Buster/) Purple Haze
+  [![purple_haze](https://raw.githubusercontent.com/vimaleurakaa/branded-games/master/screenshots/odor_buster_game_play.png)](https://vimaleurakaa.github.io/branded-games/Odor-Buster/)
+
+---
+
+- [Click to Play](https://vimaleurakaa.github.io/branded-games/Wing-Walking/) Purple Haze
+  [![purple_haze](https://raw.githubusercontent.com/vimaleurakaa/branded-games/master/screenshots/wing_walking_game_play.png)](https://vimaleurakaa.github.io/branded-games/Wing-Walking/)
