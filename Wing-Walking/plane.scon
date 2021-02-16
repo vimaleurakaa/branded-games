@@ -1,0 +1,177 @@
+{
+	"atlas": [
+		{
+			"name": "Plane.json"
+		}
+	],
+	"entity": [
+		{
+			"animation": [
+				{
+					"id": 0,
+					"interval": 100,
+					"length": 1000,
+					"mainline": {
+						"key": [
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": 1
+									}
+								],
+								"id": 0,
+								"object_ref": [
+									{
+										"abs_a": 1,
+										"abs_angle": 1.8165919999999574,
+										"abs_pivot_x": 0.526669,
+										"abs_pivot_y": 0.514226,
+										"abs_scale_x": 0.516057,
+										"abs_scale_y": 0.515836087904,
+										"abs_x": 11.865871662813984,
+										"abs_y": -28.891878640506334,
+										"file": 0,
+										"folder": 0,
+										"id": 0,
+										"key": 0,
+										"name": "Plane",
+										"parent": 0,
+										"timeline": "0",
+										"z_index": "0"
+									}
+								]
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"timeline": 1
+									}
+								],
+								"id": 1,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 0,
+										"timeline": "0",
+										"z_index": "0"
+									}
+								],
+								"time": 501
+							}
+						]
+					},
+					"name": "idle",
+					"timeline": [
+						{
+							"id": 0,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 272.877504,
+										"file": 0,
+										"folder": 0,
+										"pivot_x": 0.526669,
+										"pivot_y": 0.514226,
+										"scale_x": 0.516057,
+										"scale_y": 0.09668800000000001,
+										"x": 75.77567599999999,
+										"y": -1.4358670000000024
+									},
+									"spin": 0
+								}
+							],
+							"name": "Plane",
+							"obj": 0
+						},
+						{
+							"id": 1,
+							"key": [
+								{
+									"bone": {
+										"angle": 88.93908799999997,
+										"scale_y": 5.335058,
+										"x": 2.803738,
+										"y": -46.728972
+									},
+									"id": 0,
+									"spin": 0
+								},
+								{
+									"bone": {
+										"angle": 88.93908799999997,
+										"scale_x": 0.9792681584383454,
+										"scale_y": 5.335057999999997,
+										"x": 2.8037379999999996,
+										"y": -50.728972
+									},
+									"id": 1,
+									"spin": 0,
+									"time": 501
+								}
+							],
+							"name": "bone_000",
+							"obj": 1,
+							"object_type": "bone"
+						}
+					]
+				}
+			],
+			"character_map": [],
+			"id": 0,
+			"name": "PlaneAnimation",
+			"obj_info": [
+				{
+					"frames": [
+						{
+							"file": 0,
+							"folder": 0
+						}
+					],
+					"name": "PlaneAnimation_Plane",
+					"realname": "Plane",
+					"type": "sprite"
+				},
+				{
+					"h": 10,
+					"name": "PlaneAnimation_bone_000",
+					"realname": "bone_000",
+					"type": "bone",
+					"w": 146.756
+				}
+			]
+		}
+	],
+	"folder": [
+		{
+			"atlas": 0,
+			"file": [
+				{
+					"ah": 369,
+					"arot": "false",
+					"aw": 626,
+					"ax": 0,
+					"axoff": 0,
+					"ay": 0,
+					"ayoff": 0,
+					"height": 369,
+					"id": 0,
+					"name": "Plane.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 626
+				}
+			],
+			"id": 0,
+			"name": "."
+		}
+	],
+	"generator": "BrashMonkey Spriter",
+	"generator_version": "r11",
+	"scon_version": "1.0"
+}
