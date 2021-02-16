@@ -32,5 +32,9 @@ Just clone the repo, and run from a live-server / local-host
 Verify the deployment by navigating to your server address in your preferred browser.
 
 ```sh
-127.0.0.1:8000
+https://vimaleurakaa.github.io/branded-games/Abarth-Rush/
+https://vimaleurakaa.github.io/branded-games/Blue-Blaze/
+https://vimaleurakaa.github.io/branded-games/Odor-Buster/
+https://vimaleurakaa.github.io/branded-games/Purple-Haze/
+https://vimaleurakaa.github.io/branded-games/Wing-Walking/
 ```
